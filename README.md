@@ -8,9 +8,10 @@ The project aims to bring people together with orphanages and homes for children
 
 ----
 ## 🖼️ Screenshots 
-<div>
-<img align="center" src='./img/home.png' style='width:75%;'/>
-<img align="center" src='./img/orphanages.png' style='width:75%;'/>
+<div align="center" >
+<img src='./img/home.png' style='width:75%;'/>
+  
+<img src='./img/orphanages.png' style='width:75%;'/>
 </div>
 
 ----
